@@ -6,8 +6,8 @@ With this project I really wanted to focus on keeping my main as clean as possib
 I used a switch to allow the user to select what category of restuarant they want, then assigned each category a unique string. 
 I then called a method within the method to generate a random number and output a random index position to the console. 
 I also used a bool method to return true or false for the play again feature. 
-Peer Reviewer: 
-Review: 
+Peer Reviewer: Valery Lot
+Review: Nice flow chart. Great idea to use an array within the switch statements. The Program.cs is very simple and clean due to the usage of the Methods. Code works great!
 */
 
 Console.Clear(); 
