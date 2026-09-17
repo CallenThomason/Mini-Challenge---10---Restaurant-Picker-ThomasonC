@@ -1,0 +1,14 @@
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge # 10 - Restaurant Picker ThomasonC\bin\Debug\net10.0\Mini Challenge # 10 - Restaurant Picker ThomasonC.exe
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge # 10 - Restaurant Picker ThomasonC\bin\Debug\net10.0\Mini Challenge # 10 - Restaurant Picker ThomasonC.deps.json
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge # 10 - Restaurant Picker ThomasonC\bin\Debug\net10.0\Mini Challenge # 10 - Restaurant Picker ThomasonC.runtimeconfig.json
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge # 10 - Restaurant Picker ThomasonC\bin\Debug\net10.0\Mini Challenge # 10 - Restaurant Picker ThomasonC.dll
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge # 10 - Restaurant Picker ThomasonC\bin\Debug\net10.0\Mini Challenge # 10 - Restaurant Picker ThomasonC.pdb
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge # 10 - Restaurant Picker ThomasonC\obj\Debug\net10.0\Mini Challenge # 10 - Restaurant Picker ThomasonC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge # 10 - Restaurant Picker ThomasonC\obj\Debug\net10.0\Mini Challenge # 10 - Restaurant Picker ThomasonC.AssemblyInfoInputs.cache
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge # 10 - Restaurant Picker ThomasonC\obj\Debug\net10.0\Mini Challenge # 10 - Restaurant Picker ThomasonC.AssemblyInfo.cs
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge # 10 - Restaurant Picker ThomasonC\obj\Debug\net10.0\Mini Challenge # 10 - Restaurant Picker ThomasonC.csproj.CoreCompileInputs.cache
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge # 10 - Restaurant Picker ThomasonC\obj\Debug\net10.0\Mini Challenge # 10 - Restaurant Picker ThomasonC.dll
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge # 10 - Restaurant Picker ThomasonC\obj\Debug\net10.0\refint\Mini Challenge # 10 - Restaurant Picker ThomasonC.dll
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge # 10 - Restaurant Picker ThomasonC\obj\Debug\net10.0\Mini Challenge # 10 - Restaurant Picker ThomasonC.pdb
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge # 10 - Restaurant Picker ThomasonC\obj\Debug\net10.0\Mini Challenge # 10 - Restaurant Picker ThomasonC.genruntimeconfig.cache
+C:\Users\calle\OneDrive\Desktop\CSA Combine\Homework\Mini Challenge # 10 - Restaurant Picker ThomasonC\obj\Debug\net10.0\ref\Mini Challenge # 10 - Restaurant Picker ThomasonC.dll
